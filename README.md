@@ -27,7 +27,7 @@ Want to benchmark your LLMs efficiently? In this video, I'll walk you through se
 
 ## YouTube Tutorial
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=pd6yL654-3Y">PHow to Benchmark LLMs Using LM Evaluation Harness - Multi-GPU, Apple MPS Support</a>
+    <a href="https://www.youtube.com/watch?v=pd6yL654-3Y">How to Benchmark LLMs Using LM Evaluation Harness - Multi-GPU, Apple MPS Support</a>
     <br>
     <br>
     <a href="https://www.youtube.com/watch?v=pd6yL654-3Y">
