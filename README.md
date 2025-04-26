@@ -23,7 +23,7 @@
     <p>Liked our work? give us a ⭐!</p>
 </div>
 
-Want to benchmark your LLMs efficiently? In this video, we walk you through setting up the LLM evaluation harness with full support for multi-GPU setups and Apple’s MPS accelerator.
+Want to benchmark your LLMs efficiently? In this video, I'll walk you through setting up the LLM evaluation harness with full support for multi-GPU setups and Apple’s MPS accelerator.
 
 ## YouTube Tutorial
 <div align="center">
